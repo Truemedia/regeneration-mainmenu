@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-02-14 20:19-0000\n"
+"PO-Revision-Date: 2015-02-14 20:21-0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ../..\n"
+
+#: ../../public/templates/src/modal.hbs:6
+#: ../../public/templates/src/partial.hbs:16
+msgid "Main menu"
+msgstr "Main menu"
+
+#: ../../public/templates/src/modal.hbs:13
+msgid "Highscores"
+msgstr "Highscores"
+
+#: ../../public/templates/src/modal.hbs:20
+msgid "Restart round"
+msgstr "Restart round"
+
+#: ../../public/templates/src/modal.hbs:27
+msgid "Restart game"
+msgstr "Restart game"
+
+#: ../../public/templates/src/modal.hbs:34
+msgid "Close"
+msgstr "Close"
+
+#: ../../public/templates/src/partial.hbs:15
+msgid "About"
+msgstr "About"
